@@ -8,7 +8,6 @@ A web-based application to manage student information, attendance, performance, 
 ## 🚀 Features
 
 - Student registration and login
-- Admin dashboard for managing student records
 - Teacher dashboard to manage subjects, attendance, and grades
 - View and update student profiles
 - Attendance tracking system
